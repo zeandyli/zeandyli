@@ -1,5 +1,5 @@
-### University of Washington Econ & Math '22
-### University of Chicago FinMath '25
+- University of Washington Econ & Math '22
+- University of Chicago FinMath '25
 
 <!--
 **zeandyli/zeandyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
