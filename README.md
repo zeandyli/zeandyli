@@ -1,5 +1,5 @@
-- University of Washington Econ & Math '22
-- University of Chicago FinMath '25
+- 🇺🇸University of Washington Econ & Math '22
+- 🇺🇸University of Chicago FinMath '25
 
 - Heading into $\text{Derivatives Pricing}^Q$...
 <!--
