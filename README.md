@@ -1,7 +1,7 @@
 - University of Washington Econ & Math '22
 - University of Chicago FinMath '25
 
-- Heading into Derivatives Pricing...
+- Heading into $\text{Derivatives Pricing}^Q$...
 <!--
 **zeandyli/zeandyli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
